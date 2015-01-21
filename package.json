@@ -1,0 +1,28 @@
+{
+  "name": "torchbearer-round",
+  "version": "0.0.1",
+  "description": "Model a round of a torchbearer conflict.",
+  "main": "index.js",
+  "dependencies": {
+    "ot-json0": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wombleton/torchbearer-round.git"
+  },
+  "keywords": [
+    "torchbearer",
+    "ot",
+    "rpg"
+  ],
+  "author": "Rowan Crawford <wombleton@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wombleton/torchbearer-round/issues"
+  },
+  "homepage": "https://github.com/wombleton/torchbearer-round"
+}
