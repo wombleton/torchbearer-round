@@ -4,11 +4,14 @@
   "description": "Model a round of a torchbearer conflict.",
   "main": "index.js",
   "dependencies": {
+    "lodash": "^3.0.0",
     "ot-json0": "^1.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
